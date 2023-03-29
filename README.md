@@ -1,4 +1,6 @@
-This repo is a codebase snapshot of [lxucs/coref-hoi](https://github.com/lxucs/coref-hoi); active issues or updates are maintained in [lxucs/coref-hoi](https://github.com/lxucs/coref-hoi) repository.
+This repo is a codebase for x-lingual coreference resolution work in the research project on Neural Pronoun Models for Machine Translation, which is funded by the Swedish Research Council (grant 2017-930). The code is based on the existing repo [lxucs/coref-hoi](https://github.com/lxucs/coref-hoi).
+
+The following descriptions are from the original repo. 
 
 # End-to-End Coreference Resolution with Different Higher-Order Inference Methods
 
